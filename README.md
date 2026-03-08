@@ -155,7 +155,7 @@ Customer review scores remain relatively strong, suggesting consistent service q
 
 ---
 
-## 🔮Conclusion
+## 🧾Conclusion
 
 This project demonstrates how transactional e‑commerce data can be transformed into strategic intelligence using business analytics tools.
 
@@ -165,7 +165,7 @@ The approach used in this project can be extended to other e‑commerce platform
 
 ---
 
-## How to Use This Project
+## ▶️ How to Use This Project
 
 1. Download the dataset files from this repository.
 
