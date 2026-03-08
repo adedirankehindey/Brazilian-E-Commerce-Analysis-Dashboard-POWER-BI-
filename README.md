@@ -1,18 +1,16 @@
-# Brazilian-E-Commerce-Analysis Dashboard-POWER-BI- (OLIST Dataset)
+# Brazilian-E-Commerce-Analysis Dashboard-POWER-BI
 ![ADEDIRANBrazilianE-Commerceproject](https://github.com/user-attachments/assets/1d59dc93-cf30-4cc9-89d6-9bf4d5abe9a3)
 
 ## 🚀 Project Overview
-This project analyzes the Brazilian OLIST e‑commerce dataset to understand customer purchasing behavior, seller distribution, payment patterns, and product demand across Brazil. The objective is to transform raw transactional data into actionable business insights using Business Intelligence tools.
+This project analyzes the Brazilian OLIST e‑commerce dataset to understand customer purchasing behavior, seller distribution, payment patterns, and product demand across Brazil. The objective is to transform raw transactional data into actionable business insights.
 
-The analysis produces an interactive dashboard highlighting order volume, revenue distribution, product performance, customer preferences, and seller activity across states and categories.
+The analysis produces an interactive dashboard highlighting order volume, revenue distribution, product performance, customer preferences, and seller activity across categories.
 
 Key project highlights include:
 - 99.44K total orders analyzed
 - $2.91B total revenue generated
 - 75 product categories evaluated
 - 3,096 sellers included in the dataset
-
-The dashboard allows stakeholders to quickly understand sales trends, payment behaviors, and product demand patterns across different regions.
 
 ---
 
@@ -49,12 +47,6 @@ Dataset size:
 - Records: 99,441 orders
 - Fields: 8 primary attributes
 
-Additional project files:
-- CSV datasets for raw data
-- Excel files for transformation checks
-- Power BI template (.pbit)
-- Dashboard image preview (.jpg)
-
 ---
 
 ## 📈 Success Metrics
@@ -83,17 +75,11 @@ These metrics provide a complete overview of marketplace performance.
 
 ## 🛠 Tools Used
 
-Business Intelligence
-Power BI
+Business Intelligence: Power BI
 
-Data Processing
-Excel
+Data Processing: Excel
 
-Data Storage
-CSV datasets
-
-Version Control
-GitHub
+Data Storage: CSV datasets
 
 Visualization Techniques
 - KPI cards
@@ -176,10 +162,3 @@ The approach used in this project can be extended to other e‑commerce platform
 4. Refresh the data model.
 
 5. Explore the interactive dashboard to analyze marketplace performance.
-
-This repository includes:
-- Raw dataset
-- Dashboard template
-- Visualization preview
-- Documentation
-
